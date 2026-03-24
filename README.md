@@ -8,7 +8,7 @@
 Welcome to my Github profile. I'm relatively new to coding but would like to share what I've learnt and document the notes for future reference.
 
 <h2 align="center">About me</h2>
-I have an Electric and Electronic Engineering background and studied Telecommunications and Wireless Systems at the University of Liverpool. I'm interested in wave propagation in the radio and optics domain but will sometimes dabble on target tracking or even other topics. My coding background is MATLAB but would like to migrate to more open source alternatives such as Python.
+I have an Electric and Electronic Engineering background and studied Telecommunications and Wireless Systems at the University of Liverpool. I'm interested in wave propagation in the radio and optics domain but will sometimes dabble on target tracking or even other topics. My coding background is MATLAB but would like to migrate to more open source alternatives such as Python.<br>
 
 - 🔭 I’m currently working on simulating optical propagation in turbulent media.
 - 🌱 I’m currently learning Python libraries such as numpy, matplotlib, scipy etc.
