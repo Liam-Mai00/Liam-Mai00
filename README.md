@@ -15,8 +15,7 @@ I have an Electric and Electronic Engineering background and studied Telecommuni
 
 <h2 align="center">My Github Statistics</h2>
 <div align="center">
-![Liam-Mai00's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liam-Mai00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Mai00&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Liam-Mai00&border_radius=5)
 </div>
 
 <h2 align="center">Skills Profile</h2>
