@@ -15,7 +15,7 @@ I have an Electric and Electronic Engineering background and studied Telecommuni
 
 <h2 align="center">My Github Statistics</h2>
 <div align="center">
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Liam-Mai00&border_radius=5)
+<img src="https://ghstats.dev/api/card?username=Liam-Mai00&border_radius=5" alt="GitHub Stats Card" />
 </div>
 
 <h2 align="center">Skills Profile</h2>
