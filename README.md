@@ -16,8 +16,8 @@ I have an Electric and Electronic Engineering background and studied Telecommuni
 <h2 align="center">My Github Statistics</h2>
 <div align="center">
 <img src="https://ghstats.dev/api/card?username=Liam-Mai00&border_radius=5" alt="GitHub Stats Card" />
-  <img src="https://ghstats.dev/api/langs?username=Liam-Mai00" alt="Top Languages" />
-  <img src="https://ghstats.dev/api/sparkline?username=Liam-Mai00&days=30&width=320&height=80" alt="Contribution Sparkline" />
+<img src="https://ghstats.dev/api/langs?username=Liam-Mai00" alt="Top Languages" /><br>
+<img src="https://ghstats.dev/api/sparkline?username=Liam-Mai00&days=30&width=320&height=80" alt="Contribution Sparkline" />
 </div>
 
 <h2 align="center">Skills Profile</h2>
